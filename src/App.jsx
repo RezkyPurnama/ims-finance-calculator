@@ -4,7 +4,7 @@ export default function App() {
   const [otr, setOtr] = useState("240000000");
   const [dp, setDp] = useState("20");
   const [jangka, setJangka] = useState("18");
-  const [tanggalMulai, setTanggalMulai] = useState("2024-01-25");
+  const [tanggalMulai, setTanggalMulai] = useState("2024-01-26");
   const [hasil, setHasil] = useState(null);
   const [jadwal, setJadwal] = useState([]);
 
